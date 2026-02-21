@@ -7,3 +7,4 @@
 - 12 Monkeys
 - The Curious Case of Benjamin Button
 - Everything Everywhere All at Once
+- Get Out
